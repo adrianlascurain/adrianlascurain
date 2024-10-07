@@ -12,7 +12,7 @@
 
 ## Stack tecnológico
 
-<p align="center" style="font-size: 20px; border-radius: 15px; font-weight: bold;width: 70%;margin: auto; margin-bottom: 15px">Frontend</p>
+<p align="center" style="font-size: 20px;font-weight: bold">Frontend</p>
 
 <div align="center">
 
@@ -23,7 +23,8 @@
 
 </div>
 
-<p align="center" style="font-size: 20px; border-radius: 15px; font-weight: bold;width: 70%;margin: auto; margin-bottom: 15px">Backend</p>
+<br>
+<p align="center" style="font-size: 20px;font-weight: bold">Backend</p>
 
 <div align="center">
 
@@ -32,7 +33,8 @@
 <img src="https://img.shields.io/badge/MySQL-808080?style=flat-square&logo=mysql" alt="mysql-logo" style ="height: 30px">
 </div>
 
-<p align="center" style="font-size: 20px; border-radius: 15px; font-weight: bold;width: 70%;margin: auto; margin-bottom: 15px">Tecnologías complementarias</p>
+<br>
+<p align="center" style="font-size: 20px;font-weight: bold">Tecnologías complementarias</p>
 
 <div align="center">
     <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git" alt="git-logo" style ="height: 30px">
