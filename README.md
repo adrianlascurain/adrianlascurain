@@ -1,8 +1,7 @@
-<h1 align = "center" style="font-size: 40px">¡Hola! Soy <b style="color:#E08F0C">Adrián Hernández</b></h1>
-<p align="center" style="font-weight: 700; color: #2596be; font-size: 30px">Desarrollador Java Full Stack Jr</p>
 
+<img src="./banner/bannergithub.png" alt= "banner Adrián Hernández">
 
-<p style="font-size:15px;margin:auto">Me apasiona aprender nuevas habilidades, tanto técnicas como interpersonales, ya que considero que el desarrollo continuo es clave para alcanzar un alto nivel de desempeño tanto en lo personal como en lo profesional. Me gusta desarrollar soluciones innovadoras utilizando herramientas y tecnologías de la información, además, valoro la colaboración en equipos de trabajo donde se consideran distintas perspectivas para resolver problemas, ya que creo que esta es la mejor manera de generar soluciones integrales.</p>
+<p style="font-size:18px;margin:auto">Me apasiona aprender nuevas habilidades, tanto técnicas como interpersonales, ya que considero que el desarrollo continuo es clave para alcanzar un alto nivel de desempeño tanto en lo personal como en lo profesional. Me gusta desarrollar soluciones innovadoras utilizando herramientas y tecnologías de la información, además, valoro la colaboración en equipos de trabajo donde se consideran distintas perspectivas para resolver problemas, ya que creo que esta es la mejor manera de generar soluciones integrales.</p>
 
 <h3 align="center">Contáctame</h3>
 <div align="center">
